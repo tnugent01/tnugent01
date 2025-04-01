@@ -1,7 +1,6 @@
 # tnugent01
 
-**CTO & Engineering Manager**
-**PhasaTek Labs**
+**CTO & Engineering Manager** - **PhasaTek Labs**
 
 ---
 
