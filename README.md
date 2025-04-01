@@ -5,7 +5,7 @@
 ---
 
 ## Core Skills
-- ** Languages**: Python, Swift, Bash, Objective-C  
+- **Languages**: Python, Swift, Bash, Objective-C  
 - **Expertise**: visionOS, macOS native app developmemnt, Python NLP
 
 ---
