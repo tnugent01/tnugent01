@@ -19,6 +19,6 @@
 ## Contact
 - **Email**: tnugent-contact@phasatek.jp
 - **PhasaTek Labs**: https://www.phasatek.jp
-- **PhasaTek Labs Publications**: https://cafe.phasatek.jp
+- **PhasaTek Labs Cafe**: https://cafe.phasatek.jp
 
 ---
